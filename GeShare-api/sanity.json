@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "sanity2-default"
+    "name": "geshare-api"
   },
   "api": {
     "projectId": "ne12d8r9",
@@ -15,9 +15,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
