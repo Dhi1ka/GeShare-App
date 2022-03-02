@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "geshare-api"
+    "name": "server"
   },
   "api": {
     "projectId": "ne12d8r9",
